@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chrisg67@gmail.com",
+    "longName": "Swap HH MM after half past",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Swapsies",
+    "uuid": "2087f6b5-5dd1-413c-9525-2eb05250ce90",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
